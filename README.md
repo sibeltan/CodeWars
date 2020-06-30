@@ -2,4 +2,4 @@
 
 Bite-size programming challenges for fun.
 
-<img src="./Codewars-image.PNG">
+<img src="./Codewars_image.PNG">
